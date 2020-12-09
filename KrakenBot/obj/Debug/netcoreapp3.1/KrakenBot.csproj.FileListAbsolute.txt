@@ -1,0 +1,13 @@
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\KrakenBot.exe
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\KrakenBot.deps.json
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\KrakenBot.runtimeconfig.json
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\KrakenBot.runtimeconfig.dev.json
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\KrakenBot.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\KrakenBot.pdb
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.csprojAssemblyReference.cache
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.AssemblyInfoInputs.cache
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.AssemblyInfo.cs
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.csproj.CoreCompileInputs.cache
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.dll
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.pdb
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.genruntimeconfig.cache
