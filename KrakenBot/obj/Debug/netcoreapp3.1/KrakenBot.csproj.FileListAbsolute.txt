@@ -11,3 +11,14 @@ G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.csproj.CoreCom
 G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.dll
 G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.pdb
 G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.genruntimeconfig.cache
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\ConcurrentCollections.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\Emzi0767.Common.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\DiscordBots\Kraken\KrakenBot\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\DiscordBots\Kraken\KrakenBot\obj\Debug\netcoreapp3.1\KrakenBot.csproj.CopyComplete
